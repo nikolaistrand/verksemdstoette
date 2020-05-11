@@ -44,7 +44,7 @@
   <br>
   <h2>Hacking</h2>
   <br>
-  Hacking betyr og komme seg rundt begrensinegr som f.eks brannmur eller passor d
+  Hacking betyr og komme seg rundt begrensinegr som f.eks brannmur eller passord
   <br>
 </body>
 </html>
